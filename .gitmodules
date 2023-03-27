@@ -1,0 +1,6 @@
+[submodule "Raspberry-Pi-Object-Detection"]
+	path = Raspberry-Pi-Object-Detection
+	url = .\\Raspberry-Pi-Object-Detection\\
+[submodule "react-GUI"]
+	path = react-GUI
+	url = .\\react-GUI\\
